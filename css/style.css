@@ -39,7 +39,7 @@ p {
 }
 
 .para-1 {
-	font-family: 'Fredericka the Great', cursive;
+	/* font-family: 'Fredericka the Great', cursive; */
 	font-size: 27px;
 	font-weight: bolder;
 	margin-top: 5px;
